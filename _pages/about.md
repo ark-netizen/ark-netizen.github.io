@@ -1,13 +1,45 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "안녕하세요, sua입니다 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+데이터로 마케팅을 말하는 **Data Analyst · Performance Marketer**입니다.  
+엔터테인먼트 & 미디어 업계 현업 경험을 바탕으로, Google · Meta 광고 운영과 GA4 기반 데이터 분석으로 캠페인 성과를 측정하고 개선해왔습니다.
+
+현재는 **AI 활용 서비스 개발**을 학습 중입니다 — LLM API 연동, 프롬프트 엔지니어링, AI 기반 자동화 도구 제작을 익히며 데이터 분석 역량과 결합한 서비스 개발을 목표로 하고 있습니다.
+
+---
+
+## 💼 경력
+
+| 분야 | 내용 |
+|------|------|
+| 🎬 엔터테인먼트 & 미디어 | 현업 실무 경험 |
+| 📈 퍼포먼스 마케팅 | Google · Meta 광고 운영, GA4 기반 데이터 분석, 캠페인 성과 측정 |
+
+---
+
+## 📜 자격증
+
+| 자격증 | 발급기관 |
+|--------|----------|
+| 🏆 빅데이터분석기사 | 한국데이터산업진흥원 |
+| 🗄️ SQLD (SQL 개발자) | 한국데이터산업진흥원 |
+| 📊 ADsP (데이터분석 준전문가) | 한국데이터산업진흥원 |
+| 💻 컴퓨터활용능력 1급 | 대한상공회의소 |
+| 🎨 GTQ 포토샵 2급 | 한국생산성본부 |
+
+---
+
+## 🤖 현재 학습 중
+
+> AI 활용 서비스 개발 — LLM API 연동, 프롬프트 엔지니어링, AI 기반 자동화 도구 제작을 학습하고 있습니다.
+
+*Updated: 2026-06-02* [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
